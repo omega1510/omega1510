@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Hayaan Rizvi
+</h1>
 
-<!--
-**omega1510/omega1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a creative 3D artist and efficient programmer.
 
-Here are some ideas to get you started:
+And a student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :fire: Technologies
+![](https://img.shields.io/badge/Pop!__OS-blue?style=for-the-badge&labelColor=grey&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Neovim-green?style=for-the-badge&labelColor=grey&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Python_3-yellow?style=for-the-badge&labelColor=grey&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Rust-red?style=for-the-badge&labelColor=grey&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Bash-lightgrey?style=for-the-badge&labelColor=grey&logo=GNUBash&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-teal?style=for-the-badge&labelColor=grey&logo=latex&logoColor=white)
