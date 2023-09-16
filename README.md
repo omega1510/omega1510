@@ -7,6 +7,8 @@ I’m a creative 3D artist and efficient programmer.
 
 And a student.
 
+I write things at https://hayaan.me/.
+
 ## :fire: Technologies
 ![](https://img.shields.io/badge/Pop!__OS-blue?style=for-the-badge&labelColor=grey&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Neovim-green?style=for-the-badge&labelColor=grey&logo=neovim&logoColor=white)
